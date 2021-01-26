@@ -1,0 +1,10 @@
+{
+  "name": "00_getting_started",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Redmund Nacario",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
